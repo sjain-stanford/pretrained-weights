@@ -21,6 +21,12 @@ If python-3, use correct encoding to load: `np.load('data_path', encoding='latin
 * [vgg16_feature_extractor_caffe2tf.npy](https://drive.google.com/uc?export=view&id=1oHLtT2hWJd-YVy96hQ8rpLNAG27i5WJr)
 
 
+### VGG - TF-Slim
+
+* [vgg16_slim.ckpt](https://drive.google.com/uc?export=view&id=17_tXNT-UoEYjREJIRUJ1tyNT7m4nCOy1)
+* [vgg19_slim.ckpt](https://drive.google.com/uc?export=view&id=1_R9RHioWVCtzYGfyI05gd08duJT9Aowv)
+
+
 ### Inception v1 (GoogleNet) - Caffe2TF (with LRN or without LRN)
 
 If python-3, use correct encoding to load: `np.load('data_path', encoding='latin1').item()`
@@ -44,9 +50,9 @@ If python-3, use correct encoding to load: `np.load('data_path', encoding='latin
 
 ### Resnet v1 - TF-Slim
 
-* [resnet_v1_50.ckpt](https://drive.google.com/uc?export=view&id=1eYdUsO8EV8RdC5FL8baTaSV6NcGaeYig)
-* [resnet_v1_101.ckpt](https://drive.google.com/uc?export=view&id=1TyPdgv2AHITBNy3OkSXqsu6onT0bSULm)
-* [resnet_v1_152.ckpt](https://drive.google.com/uc?export=view&id=1VPbo76I0mTCw_tw9P_GzX4HJT3GXNkch)
+* [resnet_v1_50_slim.ckpt](https://drive.google.com/uc?export=view&id=1eYdUsO8EV8RdC5FL8baTaSV6NcGaeYig)
+* [resnet_v1_101_slim.ckpt](https://drive.google.com/uc?export=view&id=1TyPdgv2AHITBNy3OkSXqsu6onT0bSULm)
+* [resnet_v1_152_slim.ckpt](https://drive.google.com/uc?export=view&id=1VPbo76I0mTCw_tw9P_GzX4HJT3GXNkch)
 
 
 ### SqueezeNet - Caffe2TF
