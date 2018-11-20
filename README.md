@@ -71,3 +71,8 @@ If python-3, use correct encoding to load: `np.load('data_path', encoding='latin
 * [mobilenet_v1_feature_extractor_caffe2tf.npy](https://drive.google.com/uc?export=view&id=10eilycu_Dtplp8lQJlIuA-U7I39pXs4e)
 
 
+### MobileNet - TF-Slim
+
+* [mobilenet_v1_1.0_224.tgz](https://drive.google.com/uc?export=view&id=11f1UHoi8WUShFGRnLfeTJr1FoP6_Jk7R)
+* [mobilenet_v2_1.0_224.tgz](https://drive.google.com/uc?export=view&id=1hpqe1Xb1vl1UXb2qi1_wcsfUBfg2LX4z)
+
