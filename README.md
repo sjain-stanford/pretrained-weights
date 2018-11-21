@@ -27,7 +27,7 @@ If python-3, use correct encoding to load: `np.load('data_path', encoding='latin
 * [vgg19_slim.ckpt](https://drive.google.com/uc?export=view&id=1_R9RHioWVCtzYGfyI05gd08duJT9Aowv)
 
 
-### Inception v1 (GoogleNet) - Caffe2TF (with LRN or without LRN)
+### Inception - Caffe2TF
 
 If python-3, use correct encoding to load: `np.load('data_path', encoding='latin1').item()`
 
@@ -35,12 +35,13 @@ If python-3, use correct encoding to load: `np.load('data_path', encoding='latin
 * [inception_v1_no_lrn_caffe2tf.npy](https://drive.google.com/uc?export=view&id=1RZqO3r7ry6hYzwN_J6gqcT5LeQZO_oUf)
 
 
-### Inception v1 (GoogleNet) - TF-Slim (with BN)
+### Inception - TF-Slim
 
 * [inception_v1_bn_slim.ckpt](https://drive.google.com/uc?export=view&id=1JMtScEBmCK0t5FQROoN9uVpuUkWAs9K5)
+* [inception_v3_slim.ckpt](https://drive.google.com/uc?export=view&id=1gq806bz2n4ndnu1W0lyT40K3SMgqxQ5A)
 
 
-### Inception v1 (GoogleNet) - TF-Keras (with LRN or BN)
+### Inception - TF-Keras
 
 * [inception_v1_lrn_weights_NCHW_tf_kernels.h5](https://drive.google.com/uc?export=view&id=1REwhFR9aG4myChmznrCz-H3C95la0Eq2)
 * [inception_v1_lrn_weights_NCHW_th_kernels.h5](https://drive.google.com/uc?export=view&id=1arJv-uthigUteR546aRiQVTJnjRa_0kT)
@@ -48,7 +49,7 @@ If python-3, use correct encoding to load: `np.load('data_path', encoding='latin
 * [inception_v1_bn_weights_NHWC_tf_kernels_notop.h5](https://drive.google.com/uc?export=view&id=1GjSQTyStbRLV7CjPpotFdSra6gZ8xg0F)
 
 
-### Resnet v1 - TF-Slim
+### Resnet - TF-Slim
 
 * [resnet_v1_50_slim.ckpt](https://drive.google.com/uc?export=view&id=1eYdUsO8EV8RdC5FL8baTaSV6NcGaeYig)
 * [resnet_v1_101_slim.ckpt](https://drive.google.com/uc?export=view&id=1TyPdgv2AHITBNy3OkSXqsu6onT0bSULm)
