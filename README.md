@@ -38,7 +38,9 @@ If python-3, use correct encoding to load: `np.load('data_path', encoding='latin
 ### Inception - TF-Slim
 
 * [inception_v1_bn_slim.ckpt](https://drive.google.com/uc?export=view&id=1JMtScEBmCK0t5FQROoN9uVpuUkWAs9K5)
+* [inception_v2_slim.ckpt](https://drive.google.com/uc?export=view&id=1AxQxBacU6WLeOqp7XATxdnQOh3QsjeWp)
 * [inception_v3_slim.ckpt](https://drive.google.com/uc?export=view&id=1gq806bz2n4ndnu1W0lyT40K3SMgqxQ5A)
+* [inception_v4_slim.ckpt](https://drive.google.com/uc?export=view&id=1usbeGS9oGrOrpls5_G5zIH-V3BChoZOR)
 
 
 ### Inception - TF-Keras
