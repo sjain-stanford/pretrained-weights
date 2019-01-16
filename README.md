@@ -80,7 +80,7 @@ If python-3, use correct encoding to load: `np.load('data_path', encoding='latin
 * [mobilenet_v2_1.0_224.tgz](https://drive.google.com/uc?export=view&id=1hpqe1Xb1vl1UXb2qi1_wcsfUBfg2LX4z)
 
 
-### Yolo (darkknet)
+### Yolo (darknet)
 
 * [yolo_v2_darknet.weights](https://drive.google.com/uc?export=view&id=1CmGujLjQXCA8GaoyXA2AnVrjnoHfDMdW)
 
