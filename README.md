@@ -82,6 +82,6 @@ If python-3, use correct encoding to load: `np.load('data_path', encoding='latin
 
 ### Yolo (darknet)
 
-* [yolo_v2_darknet.weights](https://drive.google.com/uc?export=view&id=1CmGujLjQXCA8GaoyXA2AnVrjnoHfDMdW)
+* [yolov2.weights](https://drive.google.com/uc?export=view&id=1CmGujLjQXCA8GaoyXA2AnVrjnoHfDMdW)
 
 
