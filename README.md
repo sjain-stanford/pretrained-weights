@@ -84,4 +84,6 @@ If python-3, use correct encoding to load: `np.load('data_path', encoding='latin
 
 * [yolov2.weights](https://drive.google.com/uc?export=view&id=1CmGujLjQXCA8GaoyXA2AnVrjnoHfDMdW)
 * [yolov3.weights](https://drive.google.com/uc?export=view&id=1OXp4DWdXxj70Y3D_Y2AB9WSkYcf3Y7h8)
+* [darknet19.weights](https://drive.google.com/uc?export=view&id=1l0P5oT9M3RZzuDNtTwn-Y_Bv8FlmvwGm)
+* [darknet19_448.weights](https://drive.google.com/uc?export=view&id=1YiB6oeAdgpljl3zCilDXST3bhp47ty7z)
 
