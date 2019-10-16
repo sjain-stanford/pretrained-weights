@@ -63,6 +63,11 @@ If python-3, use correct encoding to load: `np.load('data_path', encoding='latin
 * [resnet_v1p5_50_keras_NHWC.h5](https://drive.google.com/uc?export=view&id=1sL96fcj-ShPoQc7k7By-G0fVuGkjkTda)
 
 
+### Resnet (tf-estimator)
+
+* [resnet_v1p5_50.tgz](https://drive.google.com/uc?export=view&id=1kny63qAMtPA9GZ5R-r3oPjfwf4YZQZkd)
+
+
 ### SqueezeNet (caffe2tf)
 
 If python-3, use correct encoding to load: `np.load('data_path', encoding='latin1').item()`
